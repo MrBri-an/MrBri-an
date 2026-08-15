@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/MrBri-an">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Brian" alt="Hello! I&#39;m Brian" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Brian" alt="Hello! I&#39;m Brian" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=865&height=44&lines=Full%20Stack%20Software%20Engineer%20and%20AI%20Product%20Builder;Building%20scalable%20web%20and%20mobile%20apps%20with%20modern%20tools" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=865&height=44&lines=Full%20Stack%20Software%20Engineer%20and%20AI%20Product%20Builder;Building%20scalable%20web%20and%20mobile%20apps%20with%20modern%20tools" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -75,14 +75,14 @@ Software developer and AI product builder focused on building practical web and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MrBri-an&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MrBri-an&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MrBri-an&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MrBri-an&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrBri-an&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrBri-an&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
